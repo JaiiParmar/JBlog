@@ -1,0 +1,29 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "my own bloggin site.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tech",
+    "blog",
+    "nojejs",
+    "tips",
+    "tricks",
+    "what",
+    "is",
+    "how",
+    "to",
+    "express",
+    "js",
+    "javascript",
+    "js",
+    "mongodb",
+    "nosql",
+    "jblog"
+  ],
+  "author": "jayesh parmar",
+  "license": "ISC"
+}
